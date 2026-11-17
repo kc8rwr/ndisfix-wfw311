@@ -1,4 +1,4 @@
-# NDISFIX
+# NDISFIX for Windows for Workgroups 3.11
 
 A DOS tool that fixes the startup freeze of **Windows for Workgroups 3.11**
 on fast CPUs and in virtual machines, tuned to the computer it runs on.
