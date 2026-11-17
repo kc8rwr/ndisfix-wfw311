@@ -1,0 +1,11 @@
+# build output
+*.EXE
+*.exe
+*.o
+*.obj
+*.err
+*.lst
+
+# never commit Microsoft's driver, patched or not
+*.386
+*.38_
